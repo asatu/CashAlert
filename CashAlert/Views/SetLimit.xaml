@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CashAlert.CustomeRenderer" xmlns:local1="clr-namespace:CashAlert.Views"
+             Shell.NavBarIsVisible="true"
+             x:Class="CashAlert.Views.SetLimit">
+    <ContentPage.Content>
+        <StackLayout Padding="0" BackgroundColor="LightGray">
+            <Grid>
+                <StackLayout Padding="0" Margin="0">
+                    <Frame BackgroundColor="LightPink" HeightRequest="50" HorizontalOptions="FillAndExpand" Padding="0">
+                        <Image Source="https://images.ctfassets.net/hrltx12pl8hq/6QpKgim9qMgGK8QG2a6gaC/2de28b955c0cf902004fecd1a1e62bee/sub-category-1.jpg" Aspect="AspectFill" Margin="0"/>
+                    </Frame>
+                </StackLayout>
+                <StackLayout Margin="0,0,0,0">
+                    <Frame BackgroundColor="White"  HasShadow="True" VerticalOptions="Fill"  HorizontalOptions="Fill">
+                        <StackLayout>
+                            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                <Label Text="Imposta limite" HeightRequest="33" FontFamily="Times New Roman" HorizontalTextAlignment="Start" TextColor="Black" FontSize="Medium" FontAttributes="Bold" />
+                            </StackLayout>
+                            <StackLayout Margin="0,25,0,0">
+                                <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0" CornerRadius="5" HorizontalOptions="FillAndExpand">
+                                    <StackLayout Orientation="Horizontal">
+                                        <local:MyCustomeEntry FontSize="12" Placeholder="ID Limite" Keyboard="Text" IsEnabled="False" PlaceholderColor="Olive" x:Name="txtDeviceName" TextColor="HotPink" HorizontalOptions="FillAndExpand" />
+                                    </StackLayout>
+                                </Frame>
+                                
+                                <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0,20,0,0" CornerRadius="5" HorizontalOptions="FillAndExpand">
+                                    <StackLayout Orientation="Horizontal">
+                                        <local:MyCustomeEntry Placeholder="Limite i.e., 0" FontSize="12" Keyboard="Numeric" PlaceholderColor="Olive" x:Name="txtDeviceIP" TextColor="HotPink" HorizontalOptions="FillAndExpand" />
+                                    </StackLayout>
+                                </Frame>
+                            </StackLayout>
+                            <Button Margin="0,20" Text="Salva" x:Name="btnAddButton" BackgroundColor="DarkSlateBlue" TextColor="White" FontAttributes="Bold" CornerRadius="5 " />
+                            <!--<Button Margin="0,20" Text="Back" x:Name="btnSettings" BackgroundColor="DarkRed" TextColor="White" FontAttributes="Bold" CornerRadius="5 " />-->
+                           
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
