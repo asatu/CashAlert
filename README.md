@@ -4,7 +4,7 @@ App per Mobile Computing
 
 Un applicazione molto minimal per memorizzare tutte le spese che si fanno nella vita giornaliera, impostare un limite massimo di soldi che ci si vuole imporre e visualizzare tutte le spese effettuate giorno per giorno con un calcolo dell'effettivo totale. 
 
-<img src="CashAlert.gif" align="left" height="200" width="200">
+.<img src="CashAlert.gif" align="left" height="500" width="500">
 
 ## Built with
 * [Firebase](https://firebase.google.com/)
