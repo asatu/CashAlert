@@ -21,3 +21,5 @@ Sono previste diverse funzioni:
 
 ## Misc
 Space Needle icon by [Pravin Unagar via The Noun Project](https://thenounproject.com/icon/money-alert-642808/)
+
+## Project by Riccardo Scudieri
