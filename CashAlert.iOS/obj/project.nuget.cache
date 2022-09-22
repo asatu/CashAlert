@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "U54DOEymjdDcUi/Tp2SfHYEe7Roi9G0vulCzQ/Mofujp4NGABV4mvE6z0261IeMpQ/b+KJ/N783x5vKilKrMJw==",
+  "success": true,
+  "projectFilePath": "/Users/asatu/Desktop/CashAlert/CashAlert.iOS/CashAlert.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/asatu/.nuget/packages/firebaseauthentication.net/3.7.2/firebaseauthentication.net.3.7.2.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/sqlite-net-pcl/1.8.116/sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/sqlitepclraw.bundle_green/2.0.4/sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.licensing/20.2.0.49/syncfusion.licensing.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.compression/20.2.0.49/syncfusion.xamarin.compression.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.core/20.2.0.49/syncfusion.xamarin.core.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.pdf/20.2.0.49/syncfusion.xamarin.pdf.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.sfbusyindicator/20.2.0.49/syncfusion.xamarin.sfbusyindicator.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.sfpdfviewer/20.2.0.49/syncfusion.xamarin.sfpdfviewer.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.sfprogressbar/20.2.0.49/syncfusion.xamarin.sfprogressbar.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/syncfusion.xamarin.sfrangeslider/20.2.0.49/syncfusion.xamarin.sfrangeslider.20.2.0.49.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/asatu/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}
