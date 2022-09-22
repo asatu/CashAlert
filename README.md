@@ -4,6 +4,7 @@ App per Mobile Computing
 
 Un applicazione molto minimal per memorizzare tutte le spese che si fanno nella vita giornaliera, impostare un limite massimo di soldi che ci si vuole imporre e visualizzare tutte le spese effettuate giorno per giorno con un calcolo dell'effettivo totale. 
 
+## Screenshots
 <p align="center">
   <img src="CashAlert.gif" vertical-align:middle align="center" height="800" width="400">
 </p>
@@ -15,7 +16,4 @@ Un applicazione molto minimal per memorizzare tutte le spese che si fanno nella 
 
 
 ## Misc
-
-Lisences under MIT
-
 Space Needle icon by [Pravin Unagar via The Noun Project](https://thenounproject.com/icon/money-alert-642808/)
