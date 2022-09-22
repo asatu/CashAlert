@@ -27,11 +27,11 @@ namespace CashAlert.Views
                 var authProvider = new FirebaseAuthProvider(new FirebaseConfig(WebAPIkey));
                 var auth = await authProvider.CreateUserWithEmailAndPasswordAsync(UserNewEmail.Text, UserNewPassword.Text);
                 string gettoken = auth.FirebaseToken;
-                await App.Current.MainPage.DisplayAlert("Attenzione", gettoken, "Ok");
+                await App.Current.MainPage.DisplayAlert("Perfetto", "Account creato con successo!", "OK");
             }
             catch (Exception ex)
             {
-                await App.Current.MainPage.DisplayAlert("Attenzione", ex.Message, "OK");
+                await App.Current.MainPage.DisplayAlert("Attenzione", "Creazione account fallita!", "OK");
             }
 
         }
